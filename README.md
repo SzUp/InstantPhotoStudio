@@ -3,3 +3,7 @@ Using a series of open-source algorithms, we have built an AI-powered photo stud
 
 # Code
 coming soon...
+
+# Method
+
+![Method](imgs/identification_method.png)``
