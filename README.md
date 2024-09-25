@@ -9,6 +9,13 @@ pose_image: A photo of the person who needs to be taken for ID card should have 
 
 std_image: Template photo from which the expression will be transferred to the target image
 
+# Function
+
+:heavy_check_mark: ID photo
+:heavy_check_mark: memoji photo
+
 # Method
 
-![Method](imgs/identification_method.png)``
+![Method](imgs/identification_method.png)
+
+![Method](imgs/memoji_method.png)
