@@ -12,10 +12,15 @@ std_image: Template photo from which the expression will be transferred to the t
 # Function
 
 :heavy_check_mark: ID photo
-:heavy_check_mark: memoji photo
 
-# Method
+:heavy_check_mark: Memoji photo
+
+# Methods / Pipeline
+
+ID photo:
 
 ![Method](imgs/identification_method.png)
+
+Memoji photo:
 
 ![Method](imgs/memoji_method.png)
