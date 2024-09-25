@@ -9,7 +9,7 @@ pose_image: A photo of the person who needs to be taken for ID card should have 
 
 std_image: Template photo from which the expression will be transferred to the target image
 
-# Function
+# Functions
 
 :heavy_check_mark: ID photo
 
