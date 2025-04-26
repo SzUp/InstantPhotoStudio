@@ -1,6 +1,8 @@
 # InstantPhotoStudio
 Using a series of open-source algorithms, we have built an AI-powered photo studio. With just a single photo, it can generate the desired images, and the entire process is completed within seconds.
 
+2.0 coming soon!
+
 # Code
 
 image: A photo of the person who needs to be used for the ID card should be clear and with a frontal face.
@@ -24,3 +26,7 @@ ID photo:
 Memoji photo:
 
 ![Method](imgs/memoji_method.png)
+
+Personalized Scene Generation:
+
+Coming soon!
