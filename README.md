@@ -23,7 +23,7 @@ ID photo:
 
 ![Method](imgs/identification_method.png)
 
-Memoji photo:
+Omoji/Memoji photo:
 
 ![Method](imgs/memoji_method.png)
 
